@@ -1,0 +1,33 @@
+Favorite,Seed_Favorite,Underdog,Seed_Underdog,Log_Pred.x,Log_Pred.y
+Alabama,1,TAM C. Christi,16,0.95,NA
+Houston,1,N Kentucky,16,0.95,NA
+Kansas,1,Howard,16,0.95,NA
+Purdue,1,F Dickinson,16,0.95,NA
+Arizona,2,Princeton,15,0.95,NA
+Marquette,2,Vermont,15,0.95,NA
+Texas,2,Colgate,15,0.95,NA
+UCLA,2,UNC Asheville,15,0.95,NA
+Baylor,3,UC Santa Barbara,14,0.95,NA
+Gonzaga,3,Grand Canyon,14,0.95,NA
+Kansas St,3,Montana St,14,0.95,NA
+Xavier,3,Kennesaw,14,0.95,NA
+Connecticut,4,Iona,13,0.95,NA
+Indiana,4,Kent,13,0.827533793,NA
+Tennessee,4,Louisiana,13,0.95,NA
+Virginia,4,Furman,13,0.884485104,NA
+Duke,5,Oral Roberts,12,0.820552686,NA
+Miami FL,5,Drake,12,0.699320908,NA
+San Diego St,5,Col Charleston,12,0.95,NA
+St Mary's CA,5,VCU,12,0.864265656,NA
+Creighton,6,NC State,11,0.817308393,NA
+Iowa St,6,Pittsburgh,11,0.830309406,NA
+Kentucky,6,Providence,11,0.660978996,NA
+TCU,6,Arizona St,11,0.729816625,NA
+Michigan St,7,USC,10,0.740257389,NA
+Missouri,7,Utah St,10,0.29974833,NA
+Northwestern,7,Boise St,10,0.42827040400000005,NA
+Texas A&M,7,Penn St,10,0.62665222,NA
+Arkansas,8,Illinois,9,0.61836879,NA
+Iowa,8,Auburn,9,0.41146195799999996,NA
+Maryland,8,West Virginia,9,0.417545641,NA
+Memphis,8,FL Atlantic,9,0.611886881,NA
